@@ -12,9 +12,9 @@
   "license": "ISC",
   "dependencies": {
     "vue": "^2.6.10",
-    "webpack": "^4.39.1"
+    "webpack": "^5.75.0"
   },
   "devDependencies": {
-    "webpack-cli": "^3.3.6"
+    "webpack-cli": "^5.0.1"
   }
 }
